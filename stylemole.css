@@ -1,0 +1,14 @@
+body {
+
+        background: linear-gradient(45deg, rgb(2, 65, 2), rgb(255, 255, 255), rgb(157, 18, 5));
+    
+
+    
+    /* Additional styling starts below. */
+    
+    font-family: 'Lexend Deca', Helvetica;
+    width: 800px; 
+    margin: auto;
+    color: #000000;
+  }
+
