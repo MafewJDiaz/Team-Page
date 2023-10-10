@@ -2,10 +2,6 @@
 
 <html>
 
-<header>
-  <title>MEXICAN CUISINE README</title>
-</header>
-
 <body>
 
   <h1>MEXICAN CUISINE</h1>
