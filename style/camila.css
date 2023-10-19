@@ -1,17 +1,11 @@
 p{
-    padding:0px
+    padding: 0px
 }
 
-ol:first-child{
-    font-style:italic;
-    text-align: center;
+ol li:first-child{
+    font-weight: bold;
 }
 
 .serving {
     font-style:italic;
 }
-
-
-/* 
-font family and hover transition?
-create a horizontal nav bar w/ flexbox */
