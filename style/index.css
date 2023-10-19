@@ -58,14 +58,13 @@ p{
  min-height: 10vw;
  display: flex;
  justify-content: space-between;
-border-bottom: solid 3px green;
-box-shadow: 2px 2px 35px 2px #8a2a1d;
-padding:12px 28px;
-font-weight: 700;
-font-size: x-large;
-align-items: center;
-letter-spacing: 3px;
-
+ border-bottom: solid 3px green;
+ box-shadow: 2px 2px 35px 2px #8a2a1d;
+ padding:12px 28px;
+ font-weight: 700;
+ font-size: x-large;
+ align-items: center;
+ letter-spacing: 3px;
 }
 
 .navbar i{
@@ -83,5 +82,9 @@ list-style: none;
 margin-right: 38px;
 text-decoration: none;
 color: green
-
 }
+
+a:hover{
+  background-color: white;
+}
+
