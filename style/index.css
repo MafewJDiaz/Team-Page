@@ -81,10 +81,10 @@ list-style: none;
 
 margin-right: 38px;
 text-decoration: none;
-color: green
+color: rgb(129, 124, 55)
 }
 
 a:hover{
-  background-color: white;
+  background-color: rgb(106, 22, 55);
 }
 

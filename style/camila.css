@@ -4,6 +4,7 @@ p{
 
 ol li:first-child{
     font-weight: bold;
+    color: blueviolet;
 }
 
 .serving {

@@ -15,7 +15,25 @@ body {
 
     
   }
+  p{
+
+  margin-right: 1.5vh;
+  margin-left: 1.5vh;
+  }
+
+  ul li:first-child{
+      color: bisque;
+  }
+  
+  ol li:first-child{
+    color: rgb(28, 104, 123);
+}
+
   .homemole{
   color: darkgreen;
   }
 
+  a:hover{
+    background-color: rgb(106, 22, 55);
+  }
+  
