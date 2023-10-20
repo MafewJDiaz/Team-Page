@@ -1,0 +1,12 @@
+p{
+    padding: 0px
+}
+
+ol li:first-child{
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.serving {
+    font-style:italic;
+}
